@@ -1,0 +1,240 @@
+{
+  "basics": {
+    "name": "Carlos Molina",
+    "label": "FullStack Developer | TypeScript | React.js | NodeJS | Nest |",
+    "image": "https://avatars.githubusercontent.com/u/105681853?v=4",
+    "email": "carlos.jmr90@gmail.com",
+    "phone": "+54 91138516604",
+    "url": "https://github.com/crlziito04",
+    "summary": "Hola! Soy Carlos Molina, soy ingeniero electrónico renove mi carrera para sumerirme en el mundo de la programacion. Soy FullStack con oritentacion al desarrollo backend.Trabajo efectivamente en ambientes de colaboración, ofreciendo propuestas y resoluciones para alcanzar metas compartidas. Siempre estoy en busca de desafíos estimulantes y actualmente estoy abierto a oportunidades laborales que me brinden la posibilidad de desarrollarme profesionalmente. Estoy entusiasmado por establecer conexiones con expertos del ámbito tecnológico",
+    "location": {
+      "address": "",
+      "postalCode": "6600",
+      "city": "Buenos Aires",
+      "countryCode": "ARG",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "carlos.jmr90",
+        "url": "https://www.linkedin.com/in/carlosjmr90/"
+      },
+      {
+        "network": "GitHub",
+        "username": "crlziito04",
+        "url": "https://github.com/crlziito04"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TRANSBA",
+      "position": "Ing. Comunicaciones",
+      "url": "https://www.linkedin.com/in/carlosjmr90/",
+      "startDate": "2023-07-01",
+      "endDate": "2024-12-01",
+      "summary": "Mantenimiento a los equipos de comunicación en las estaciones transformadoras (Radios microondas (AVIAT, ALCATEL), multiplexor (FOX 515, 615), onda portadora (DIMAT, ABB), baterías). Solicitud de compras de equipos y materiales. Supervisión de contratistas. Trabajo en altura, fusión de fibra óptica tipo ADSS/OPGW.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "IPNEXT",
+      "position": "Tecnico Instalador",
+      "url": "https://www.linkedin.com/in/carlosjmr90/",
+      "startDate": "2016-11-01",
+      "endDate": "2023-07-01",
+      "summary": "Instalación y Configuración Enlaces Punto a punto UBIQUITI, Router Mikrotik, enlaces Licenciados Ceragon IP10, enlaces Licenciados Ceragon IP20, enlaces Licenciados Ceragon IP20c. Configuración de SW HUAWEI. Atención de Fallas clientes (domicilio) Supervisión y monitoreo de Red de Transporte. Sustitución de equipos, tarjetas, radios, y todos los componentes requeridos. Realización del respaldo (Back-up) de radios y todos los equipos de telefonía móvil. Servicio Torrero para instalación y reparación de Enlaces de Redes móviles. Control y auditoría operativa sobre las áreas de Instalaciones y reparaciones a clientes. Auditorías de campo sobre tareas de Instalaciones y Reparaciones en clientes. Análisis de consumos de materiales. Mantenimiento preventivo de redes, y experiencia en manejo de grupos de trabajo. Monitoreo de radios, Atencion telefónica y reclamos para cliente residenciales como corporativos. Diseño de planos FTTH.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Rafael Belloso Chacin",
+      "url": "https://www.urbe.edu/",
+      "area": "Electronic Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2007-09-01",
+      "endDate": "2012-08-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Full Stack Developer",
+      "date": "2024-05-01",
+      "issuer": "Henry",
+      "url": "https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=888842218f76200ba2bf0a36ecda781664e1a531a2807c7f97712fb3a598cf25"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": ["Web development", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Express",
+      "level": "Advanced",
+      "keywords": ["Web development", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Advanced",
+      "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Advanced",
+      "keywords": ["Bases de Datos", "no SQL", "Database", "Backend"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": ["Version control", "Collaboration", "Source code", "Git"]
+    },
+    {
+      "name": "Nest.js",
+      "level": "Advanced",
+      "keywords": ["Web development", "Backend", "Express Framework"]
+    },
+    {
+      "name": "Python",
+      "level": "Basic",
+      "keywords": ["Web development", "Backend", "Python", "Servidor"]
+    },
+    {
+      "name": "Flask",
+      "level": "Basic",
+      "keywords": ["Web development", "Backend", "Python", "Servidor"]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": ["guitar", "rock"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Olvadis Hernadez",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CarpenDiem",
+      "description": "Crud para para la creacion de productos de estetica",
+      "highlights": ["Python", "Flask"],
+      "url": "https://github.com/Crlziito04/codoAcodo",
+      "github": "https://github.com/Crlziito04/codoAcodo"
+    },
+    {
+      "name": "CineMagic",
+      "isActive": false,
+      "description": "Cartelera de peliculas favoritas",
+      "highlights": ["Html", "CSS", "express"],
+      "url": "https://github.com/Crlziito04/cinemagic",
+      "github": "https://github.com/Crlziito04/cinemagic"
+    },
+    {
+      "name": "MediClick",
+      "isActive": false,
+      "description": "App para gestion de turnos",
+      "highlights": ["express", "TypeScript", "react"],
+      "url": "https://github.com/Crlziito04/mediClick",
+      "github": "https://github.com/Crlziito04/mediClick"
+    },
+    {
+      "name": "ApiEcommerce",
+      "isActive": false,
+      "description": "E-commerce backend construido en Nest.js, Docker, PostgreSQL",
+      "highlights": ["TypeScript", "Nest"],
+      "url": "https://github.com/Crlziito04/apiEcommerce",
+      "github": "https://github.com/Crlziito04/apiEcommerce"
+    },
+    {
+      "name": "Rindoor",
+      "isActive": true,
+      "description": "Esta aplicación conecta clientes que quieren que les realicen un trabajo o servicio y profesionales que buscan postular a dichos trabajos o servicios.",
+      "highlights": ["TypeScript", "Nest"],
+      "url": "https://rindoor-2-0.vercel.app/",
+      "github": "https://github.com/Crlziito04/apiRindoor"
+    },
+    {
+      "name": "Chocolatera",
+      "isActive": true,
+      "description": "Proyecto Colaborativo realizado en Next.js para el front y Nest.js para el backend. App para la venta de chocolates.",
+      "highlights": ["TypeScript", "Nest"],
+      "url": "https://lachoco-front.vercel.app/",
+      "github": "https://github.com/AlhuayOscar/Lachoco-Back"
+    }
+  ]
+}

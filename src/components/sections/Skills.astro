@@ -1,0 +1,76 @@
+---
+import Section from "../Section.astro"
+import HTML from "../../icons/html.astro"
+import CSS from "../../icons/css.astro"
+import JavaScript from "../../icons/javascript.astro"
+import Express from "../../icons/Express.astro"
+import TypeScript from "../../icons/type.astro"
+import React from "../../icons/react.astro"
+import Node from "../../icons/node.astro"
+import MySQL from "../../icons/sql.astro"
+import Git from "../../icons/git.astro"
+import GitHub from "../../icons/GitHub.astro"
+import Tailwind from "../../icons/tailwind.astro"
+import Nest from "../../icons/nest.astro"
+import MongoDB from '../../icons/MongoDB.astro'
+import Python from '../../icons/Python.astro'
+import Flask from '../../icons/Flask.astro'
+import PostgreSQL from '../../icons/PostgreSQL.astro'
+
+import { skills } from "../../../cv.json"
+import AstroSkill from "../../icons/astro.astro"
+
+
+const SKILLS_ICONS: Record<string, any> = {
+  Nest,MongoDB,Python,Express,PostgreSQL,
+  Flask,
+  HTML,
+  CSS,
+  JavaScript,
+  TypeScript,
+  React,
+  Node,
+  MySQL,
+  Git,
+  GitHub,
+  Tailwind,
+}
+---
+
+<Section title="Skills">
+  <ul>
+    {
+      skills.map(({ name }) => {
+        const iconName = name === "Nest.js" ? "Nest" : name
+        const Icon = SKILLS_ICONS[iconName]
+
+        return (
+          <li>
+            {Icon && <Icon />} <span>{name === 'AstroSkill' ? 'Astro' : name}</span>
+          </li>
+        )
+      })
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  li {
+    align-items: center;
+    background: #eee;
+    border-radius: 6px;
+    color: black;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.2rem 0.6rem;
+  }
+</style>
