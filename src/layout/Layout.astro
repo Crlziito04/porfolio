@@ -1,5 +1,6 @@
 ---
 import {basics} from '../../cv.json'
+import BackgroundColorChanger from '../components/BackgroundColorChanger '
 interface Props {
   title: string
 }
@@ -26,6 +27,7 @@ const { image, summary, url } = basics
     <meta property="og:image" content="" />
   </head>
   <body>
+    <BackgroundColorChanger client:load/>
     <slot />
   </body>
 </html>
@@ -35,6 +37,7 @@ const { image, summary, url } = basics
     --bg-color: #fff;
     background: var(--bg-color);
     letter-spacing: -0.025rem;
+    transition: background-color 0.5s ease, transform 0.5s ease
   }
 
   body,

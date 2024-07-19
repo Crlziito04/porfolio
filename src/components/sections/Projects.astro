@@ -9,10 +9,10 @@ import { projects } from "../../../cv.json"
   <ul>
     {
       projects.map(
-        ({ url, description, highlights, name, isActive, github }) => {
+        ({ url, description, highlights, name, isActive, github },index=0) => {
           return (
             <li>
-              <article>
+              <article class="article">
                 <header>
                   <h3>
                     <a href={url} target="_blank" title={`Ver el proyecto ${name}`}>
@@ -55,8 +55,9 @@ import { projects } from "../../../cv.json"
   }
 
   article {
+    --border-article:1px solid #f2f2f2;
     border-radius: 8px;
-    border: 1px solid #f2f2f2;
+    border: var(--border-article);
     gap: 16px;
     display: flex;
     flex-direction: column;
